@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE StudentsInformation SYSTEM "Task2.dtd">
+<StudentsInformation>
+	<students sid="e">
+		<ID>100</ID>
+		<regno>1000</regno>
+		<name>Rahul</name>
+		<dob>15-08-1992</dob>
+		<time>02:00pm</time>
+		<mobileno>9685154276</mobileno>
+		<distinction>YES</distinction>
+	</students>
+	<students sid="f">
+		<ID>101</ID>
+		<regno>1001</regno>
+		<name>Ramesh</name>
+		<dob>11-09-1991</dob>
+		<time>01:00pm</time>
+		<mobileno>5685421586</mobileno>
+		<distinction>YES</distinction>
+	</students>
+	<students sid="g">
+		<ID>102</ID>
+		<regno>1002</regno>
+		<name>Pavan</name>
+		<dob>09-10-1992</dob>
+		<time>02:00am</time>
+		<mobileno>2545871236</mobileno>
+		<distinction>YES</distinction>
+	</students>
+	<students sid="h">
+		<ID>103</ID>
+		<regno>1003</regno>
+		<name>Kajal</name>
+		<dob>04-08-1991</dob>
+		<time>09:00pm</time>
+		<mobileno>5689421548</mobileno>
+		<distinction>YES</distinction>
+	</students>
+	<students sid="i">
+		<ID>104</ID>
+		<regno>1004</regno>
+		<name>Srinu</name>
+		<dob>15-12-1991</dob>
+		<time>02:15pm</time>
+		<mobileno>4512367854</mobileno>
+		<distinction>YES</distinction>
+	</students>
+</StudentsInformation>

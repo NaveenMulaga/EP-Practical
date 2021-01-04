@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT StudentsInformation (students+)>
+<!ELEMENT students (ID,regno,name,dob,time,mobileno,distinction)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT regno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT mobileno (#PCDATA)>
+<!ELEMENT distinction (#PCDATA)>
+<!ATTLIST students sid ID #REQUIRED>
