@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script >
+function form()
+{ 
+	var regno=document.f1.regno.value;
+	var name=document.f1.name.value;
+	var email=document.f1.email.value;
+	var department=document.f1.department.value;
+	 
+}
+</script>
+</head>
+<body>
+<form name="f1" action="Studentdetails" method="post" onsubmit="return form()">
+<table align="center">
+<tr><td>Studentregno:</td><td><input type="text" name="regno"></td></tr><br>
+<tr><td>StudentName:</td><td><input type="text" name="name"></td></tr><br>
+<tr><td>Studentemail:</td><td><input type="email" name="email"></td></tr><br>
+<tr><td>Department:</td><td><input type="text" name="department"></td></tr><br>
+<tr><td><input type="submit"></td></tr>
+</table>
+</form>
+</body>
+</html>
