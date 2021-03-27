@@ -14,6 +14,7 @@ public class DBUtil {
 		Connection con=DriverManager.getConnection(dBURL,username,password);
 		return con;
 	}
+
 	
 	
 

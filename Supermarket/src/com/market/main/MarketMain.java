@@ -7,7 +7,9 @@ import java.util.Scanner;
 import com.market.Bean.Bean;
 import com.market.crudoperations.MarketCRUD;
 
+@SuppressWarnings("unused")
 public class MarketMain {
+	@SuppressWarnings({ "static-access", "resource" })
 	public static void main(String args[]) throws Exception
 	{
 		Scanner s= new Scanner(System.in);
