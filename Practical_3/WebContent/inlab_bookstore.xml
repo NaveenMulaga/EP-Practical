@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="inlab3.xsl"?>
+<books>
+	<heading>WELCOME TO EP PRE-LAB-3</heading>
+	<book id='1'>
+		<title>Enterprise Programming</title>
+		<author>abc</author>
+		<publisher>def</publisher>
+		<edition>5</edition>
+		<price>400</price>
+	</book>
+	<book id='2'>
+		<title>MP-II</title>
+		<author>qwe</author>
+		<publisher>zxc</publisher>
+		<edition>3</edition>
+		<price>456</price>
+	</book>
+	<book id='3'>
+		<title>Data Science</title>
+		<author>Foruouzan</author>
+		<publisher>Mc Graw Hill</publisher>
+		<edition>5</edition>
+		<price>899</price>
+	</book>
+	<book id='4'>
+		<title>CNS</title>
+		<author>a1</author>
+		<publisher>xyz</publisher>
+		<edition>5</edition>
+		<price>999</price>
+	</book>
+	<book id='5'>
+		<title>Quantam Physics</title>
+		<author>dfr</author>
+		<publisher>xyz</publisher>
+		<edition>8</edition>
+		<price>750</price>
+	</book>
+</books>

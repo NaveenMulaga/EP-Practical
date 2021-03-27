@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="postlab3.xsl"?>
+<Students>
+	<student sid='a'>
+		<no>1900</no>
+		<name> Abhinaya </name>
+		<email> adhinaya@gmail.com </email>
+		<marks> 90 </marks>
+		<classs> c005 </classs>
+	</student>
+	<student sid='b'>
+		<no>1920</no>
+		<name> Anu </name>
+		<email> anu@gmail.com </email>
+		<marks> 85 </marks>
+		<classs> c006 </classs>
+	</student>
+	<student sid='c'>
+		<no>1960</no>
+		<name> Anupama </name>
+		<email> anupama@gmail.com </email>
+		<marks> 96 </marks>
+		<classs> c007 </classs>
+	</student>
+	<student sid='d'>
+		<no>1910</no>
+		<name> Ananya </name>
+		<email> ananya@gmail.com </email>
+		<marks> 93 </marks>
+		<classs> c009 </classs>
+	</student>
+	<student sid='e'>
+		<no>1901</no>
+		<name> Anuradha </name>
+		<email> anuradha@gmial.com </email>
+		<marks> 88 </marks>
+		<classs> c109 </classs>
+	</student>
+</Students>
