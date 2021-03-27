@@ -1,0 +1,30 @@
+books {
+ color: DodgerBlue;
+ background-color : white;
+ width: 100%;
+}
+heading {
+ color: white;
+ font-size : 40px;
+ background-color : #ff0080;
+}
+category {
+color: lightgreen;
+font-size : 30px;
+background-color : lightyellow;
+display : block;
+text-align:center;
+}
+heading,title, author, publisher, year, price {
+ display : block;
+ text-align : center;
+}
+author,publisher,year,price {
+ color: #0080ff;
+ font-size: 20px;
+}
+title {
+ font-size : 20px;
+ font-weight : italic;
+ color : maroon;
+}

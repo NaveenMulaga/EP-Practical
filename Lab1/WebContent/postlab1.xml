@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="postlab1css.css"?>
+<bookstore>
+<heading>Book Store </heading>
+<book category="Novel">
+<category> Novel</category>
+<title lang="en">Plae Fire</title>
+<author>Author:Vladimir Nabokov</author>
+<year>Year:1962</year>
+<publisher>Publisher:G.P.Putnam's sons</publisher>
+<price>price:30.00</price>
+</book>
+<book category="web">
+<category>web</category>
+<title lang="en">Ulysses</title>
+<author>Author:James Joyce</author>
+<year>year:1922</year>
+<publisher>publisher: Sylvia Beach</publisher>
+<price>price: 29.99</price>
+</book>
+<book category="Thriller">
+<category>Thriller</category>
+<title lang="en">Learning XML</title>
+<author>Author: Erik T. Ray</author>
+<year>year: 2003</year>
+<publisher>Publisher: O'Reilly Media</publisher>
+<price>price: 39.95</price>
+</book>
+<book category="Romantic">
+<category> Romantic</category>
+<title lang="en">The Public Burning</title>
+<author>Author: Robert Coover</author>
+<year>year:1977</year>
+<publisher>Publisher: wiliams</publisher>
+<price>Price: 39.95</price>
+</book>
+<book category="Medical">
+<category> Medical</category>
+<title lang="en">Angel</title>
+<author>Author: Thomas crews</author>
+<year>year: 1968</year>
+<price>price: 3.99</price>
+</book>
+<book category="Horror">
+<category> Horror</category>
+<title lang="en">City Of Bones</title>
+<author>Author: Cassandra Clare</author>
+<year>year:1989</year>
+<price>price: 3.99</price>
+</book>
+<book category="humor">
+<category> Humour</category>
+<title lang="en">The Explosive Child</title>
+<author>Author: Ross W.Greene</author>
+<year>year: 1990</year>
+<price>price: 3.99</price>
+</book>
+<book category="Historical Fiction">
+<category> Historical Fiction</category>
+<title lang="en">Night Train</title>
+<author>Author: Darcy Coates</author>
+<year>year: 1988</year>
+<price>price: 13.57</price>
+</book>
+<book category="Fantasy">
+<category>Fantasy</category>
+<title lang="en">If you give a mouse a cookie</title>
+<author>Author: Laura Joffe Numeroff</author>
+<year>year: 1996</year>
+<price>price: 3.99</price>
+</book>
+</bookstore>

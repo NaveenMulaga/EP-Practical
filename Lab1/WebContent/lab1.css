@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+books {
+ color: DodgerBlue;
+ background-color : white;
+ width: 100%;
+}
+title, author, publisher, edition, price {
+ display : block; 
+}
+title {
+ color: #3109ED;
+}
+author,publisher,edition,price {
+ color: #EB1212;
+ font-size: 20px;
+}
+title {
+ font-size : 20px;
+ font-weight : italic;
+}
